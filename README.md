@@ -1,0 +1,2 @@
+# Can-You-See--NN-It-BREAST-CANCER-IMAGE-CHARACTERIZATION-UTILIZING-CUSTOMIZED-GOOGLENET-CNN
+Our group aims to characterize breast cancer tissue in image inputs by utilizing deep learning techniques, a form of machine learning. We hope to create a program that will automatically identify if an Invasive Ductal Carcinoma (IDC) tumor is present in images, providing an output decision that notifies the user whether there is a tumor
